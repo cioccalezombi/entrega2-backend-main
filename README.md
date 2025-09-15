@@ -12,7 +12,7 @@ Instalación
 npm install
 
 Correr el proyecto
-# Desarrollo (con autoreload si tenés nodemon)
+# Desarrollo 
 npm run dev
 
 # Producción
@@ -21,7 +21,7 @@ npm start
 
 Por defecto corre en: http://localhost:8080
 
-Estructura (resumen)
+Estructura
 src/
   app.js
   routes/
