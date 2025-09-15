@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "API de productos y carritos con persistencia en archivos",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-handlebars": "^8.0.3",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

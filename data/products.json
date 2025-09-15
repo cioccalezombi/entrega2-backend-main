@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Camperita",
+    "description": "Campera negra con toda la onda",
+    "code": "9120",
+    "price": 95000,
+    "status": true,
+    "stock": 8,
+    "category": "Torso",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "increible remera",
+    "description": "remera tremenda calidad",
+    "code": "453024",
+    "price": 25000,
+    "status": true,
+    "stock": 2,
+    "category": "remerita",
+    "thumbnails": []
+  }
+]
